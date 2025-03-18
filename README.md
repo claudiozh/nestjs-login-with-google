@@ -9,8 +9,6 @@ Este projeto é um serviço de autenticação com **NestJS** que permite login v
 
 - [NestJS](https://nestjs.com/)
 - [Passport.js](http://www.passportjs.org/) com estratégia **Google OAuth**
-- [Cookie-parser](https://www.npmjs.com/package/cookie-parser)
-- Dotenv para gerenciamento de variáveis de ambiente
 
 ## 📂 Instalação e Configuração
 
