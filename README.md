@@ -17,7 +17,7 @@ Este projeto é um serviço de autenticação com **NestJS** que permite login v
 ### 1️⃣ Clone o repositório
 
 ```sh
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/claudiozh/nestjs-login-with-google
 cd seu-repositorio
 ```
 
