@@ -108,7 +108,3 @@ export class AuthController {
   }
 }
 ```
-
-## 🎯 Contribuição
-
-Sinta-se à vontade para abrir **issues** ou enviar **pull requests**.
